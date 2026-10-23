@@ -16,6 +16,26 @@ API RESTful profesional desarrollada en **.NET** orientada a la gestión segura 
 
 ---
 
+## 📥 Cómo Instalar y Correr el Proyecto Localmente
+
+Sigue estos pasos detallados para configurar y poner en marcha la API en tu computadora:
+
+### Prerrequisitos previos:
+Asegúrate de tener instalado en tu equipo:
+* **.NET SDK** (versión compatible con tu entorno, ej. .NET 8 o superior).
+* **SQL Server** (puede ser SQL Server Express, Developer o LocalDB) junto con SQL Server Management Studio (SSMS).
+* **Git** para clonar el repositorio.
+
+---
+
+### Paso 1: Clonar el repositorio
+Abre tu terminal (CMD, PowerShell o Bash) y ejecuta el siguiente comando para clonar el proyecto en tu máquina:
+```bash
+git clone https://github.com/PedroLuiss/EnterpriseCatalog.Api.git
+cd EnterpriseCatalog.Api
+
+---
+
 ## 📐 Patrones de Diseño y Arquitectura
 
 Este proyecto sigue una arquitectura limpia basada en **Separación de Responsabilidades (SoC)** y principios corporativos:
